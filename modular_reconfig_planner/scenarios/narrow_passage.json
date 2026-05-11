@@ -1,0 +1,1 @@
+{"scenario_id":"narrow_passage","environment_type":"NARROW_PASSAGE","corridor_width":0.32,"target_reached":false,"required_min_clearance":0.005,"obstacles":[{"id":"left_wall","type":"WALL","position":[0.8,0.28,0.2],"size":[1.6,0.05,0.4]},{"id":"right_wall","type":"WALL","position":[0.8,-0.28,0.2],"size":[1.6,0.05,0.4]}]}

@@ -1,0 +1,2 @@
+scenario_name,environment_type,selected_configuration,success,reconfiguration_time,number_of_steps,number_of_connection_changes,estimated_energy,collision_risk,stability_penalty,minimum_clearance,total_cost
+"step",STEP,"CLIMB",1,2.15917,20,2,16.1091,0,0,999,3.36412

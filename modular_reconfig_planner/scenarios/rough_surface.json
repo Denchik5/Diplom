@@ -1,0 +1,1 @@
+{"scenario_id":"rough_surface","environment_type":"ROUGH_SURFACE","roughness":0.08,"target_reached":false,"required_min_clearance":0.005,"obstacles":[{"id":"rough_block_1","type":"ROUGH_BLOCK","position":[0.7,0.18,0.04],"size":[0.22,0.18,0.08]},{"id":"rough_block_2","type":"ROUGH_BLOCK","position":[1.1,-0.16,0.05],"size":[0.25,0.2,0.1]}]}

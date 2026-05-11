@@ -1,0 +1,1 @@
+{"scenario_id":"target_zone","environment_type":"TARGET_ZONE","target_reached":true,"target_zone":{"center":[3.0,0.0,0.0],"radius":0.4},"required_min_clearance":0.005,"obstacles":[{"id":"manipulation_object","type":"TARGET_OBJECT","position":[1.12,0.0,0.62],"size":[0.1,0.1,0.1]}]}
