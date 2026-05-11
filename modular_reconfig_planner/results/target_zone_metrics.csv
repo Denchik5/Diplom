@@ -1,0 +1,2 @@
+scenario_name,environment_type,selected_configuration,success,reconfiguration_time,number_of_steps,number_of_connection_changes,estimated_energy,collision_risk,stability_penalty,minimum_clearance,total_cost
+"target_zone",TARGET_ZONE,"MANIPULATOR",1,2.86839,20,8,38.1115,0.923077,0,0.02,8.00801
